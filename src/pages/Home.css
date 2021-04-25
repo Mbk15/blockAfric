@@ -1,0 +1,47 @@
+.home-section{
+    background-color: #eee;
+    margin: 1em 0px;
+}
+
+.balances{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    align-items: center;
+}
+.balances > h3{
+   margin: 10px;
+}
+
+.currency-select{
+    color: #05a8f5;
+    font-size: 1.3em;
+    padding: 0.5em;
+}
+
+.token-section{
+    display: flex;
+    align-items: center;
+
+}
+.token-section > h3{
+    border: 2px solid black;
+    padding: 7px 1px;
+    margin-right: 10px;
+}
+
+.buttons-section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.activity-table{
+    width: 100%;
+}
+.activity-table > *{
+    text-align: center;
+}
+
+td{
+  padding: 1.3em;
+}

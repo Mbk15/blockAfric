@@ -1,0 +1,19 @@
+.topnav-container{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+#logo{
+    border: 1px solid rgb(158, 154, 154);
+    padding: 4px 10px;
+    font-size: 1.3em;
+}
+
+.topbar-right-icon{
+    color: var(--deep-theme-color);
+    font-size: 2em;
+    margin: 0px 5px;
+}

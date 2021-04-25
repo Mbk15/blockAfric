@@ -1,0 +1,10 @@
+.full-page{
+    border: 1px solid #eee;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 500px;
+    padding: 5px;
+    overflow: hidden;
+}
